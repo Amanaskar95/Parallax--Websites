@@ -1,4 +1,4 @@
-# Parallax--Websites
+# Parallax--Websites (https://amanaskar95.github.io/Parallax--Websites/)
  
 This project showcases a stunning parallax effect website designed with smooth scrolling and layered images to create a captivating user experience. The theme revolves around adventure, featuring activities such as biking, para gliding, and surfing. Each section is enhanced with visual depth using the parallax effect, making the site feel dynamic and immersive.
 
